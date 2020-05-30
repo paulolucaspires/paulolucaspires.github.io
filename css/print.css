@@ -1,0 +1,16 @@
+/*
+Project: Curriculo pessoal 
+Author: Leonidio Alcantara;
+
+*/
+     
+body { background: #fff; }
+
+header { padding-bottom: o; margin-bottom: 0;}
+
+.hide { display:none; } 
+
+.jumbotron{
+    padding: 0;
+    margin: 0;
+}
